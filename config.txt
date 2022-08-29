@@ -13,11 +13,7 @@
 # 和风天气apikey
 "weather_key": "9ba4f10ffd6e44148c520be9d68f2894",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region1": "南阳市",
-"weather_key": "21716f507e044f54b1072961abc3fc69",
-"region2": "周口市",
-"weather_key": "f5b7e5c903e94527956c51eaed4c3c4b",
-"region3": "郑州市",
+"region": "南阳市",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "舒克妹妹", "birthday": "r2001-06-1"},
 # 生日2
